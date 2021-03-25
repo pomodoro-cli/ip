@@ -10,4 +10,4 @@ A jar file will be released soon, found on the release link of the repo.
 
 ## Acknowledgements
 
-This project is based on a project template for a greenfield Java project, called Pomo. It was forked from this repo https://github.com/nus-cs2103-AY2021S2/ip.
+This project is based on a project template for a greenfield Java project, called Duke. It was forked from this repo https://github.com/nus-cs2103-AY2021S2/ip, created by module coordinators and other contributers for CS2103T 
